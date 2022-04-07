@@ -18,9 +18,9 @@ service:
         targetPort: 5003
         port: 10190
 env:
-  SMTP_HOST:
-  SMTP_PORT:
-  SMTP_USER:
-  SMTP_PASS:
-  SEND_ADDR:
-  DISP_NAME:
+  SMTP_HOST: "smtp.gmail.com"
+  SMTP_PORT: 465
+  SMTP_USER: "332duparc@gmail.com"
+  SMTP_PASS: "kp1t1kp1"
+  SEND_ADDR: "noreply@332duparc.com"
+  DISP_NAME: "332 Du Parc"

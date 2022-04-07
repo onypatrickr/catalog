@@ -1,18 +1,17 @@
 apiVersion: v2
 kubeVersion: ">=1.16.0-0"
-name: kavita
-version: 1.0.3
-appVersion: "0.5.1"
-description: Kavita is a rocket fueled self-hosted digital library which supports a vast array of file formats
-type: application
+name: kavita-email
+version: 0.0.1
+appVersion: "latest"
+description: Simple email service for kavita
+type: service
 deprecated: false
-home: https://github.com/truecharts/apps/tree/master/charts/stable/kavita
+home: https://github.com/onypatrickr/catalog.git
 icon: https://truecharts.org/_static/img/appicons/kavita.png
 keywords:
   - kavita
-  - manga
-  - library
-  - book
+  - email
+  - kavita-email
 sources:
   - https://www.kavitareader.com
 dependencies:

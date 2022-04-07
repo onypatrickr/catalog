@@ -4,7 +4,7 @@ name: kavita-email
 version: 0.0.1
 appVersion: "latest"
 description: Simple email service for kavita
-type: service
+type: application
 deprecated: false
 home: https://github.com/onypatrickr/catalog.git
 icon: https://truecharts.org/_static/img/appicons/kavita.png
